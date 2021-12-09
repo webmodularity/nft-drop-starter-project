@@ -12,7 +12,7 @@
   flex-direction: column;
   justify-content: center;
   padding: 0 30px 0 30px;
-  color: white;
+  color: #f9c23c;
   position: relative;
   /* background-color: #35aee2; */
 }
@@ -48,7 +48,7 @@
 .cta-button {
   height: 45px;
   border: 0;
-  width: auto;
+  width: 400px;
   padding-left: 40px;
   padding-right: 40px;
   border-radius: 10px;
@@ -65,10 +65,10 @@
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  background: -webkit-linear-gradient(left, #44911b, #75b752);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
-  margin-left: 10px;
+  margin: auto;
 }
 
 .footer-container {
